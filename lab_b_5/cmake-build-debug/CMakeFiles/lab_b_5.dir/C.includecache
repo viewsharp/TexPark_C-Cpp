@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/viewsharp/GitHub/TexPark_C-Cpp/lab_b_5/main.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+split.h
+/home/viewsharp/GitHub/TexPark_C-Cpp/lab_b_5/split.h
+
+/home/viewsharp/GitHub/TexPark_C-Cpp/lab_b_5/split.c
+split.h
+/home/viewsharp/GitHub/TexPark_C-Cpp/lab_b_5/split.h
+
+/home/viewsharp/GitHub/TexPark_C-Cpp/lab_b_5/split.h
+
